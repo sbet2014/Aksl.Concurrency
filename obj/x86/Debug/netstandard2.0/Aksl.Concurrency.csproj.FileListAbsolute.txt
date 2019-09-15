@@ -1,0 +1,9 @@
+D:\TrainingKits\Aksl\Aksl.Concurrency\bin\x86\Debug\netstandard2.0\Aksl.Concurrency.deps.json
+D:\TrainingKits\Aksl\Aksl.Concurrency\bin\x86\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\TrainingKits\Aksl\Aksl.Concurrency\bin\x86\Debug\netstandard2.0\Aksl.Concurrency.pdb
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.csproj.CoreCompileInputs.cache
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfoInputs.cache
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.AssemblyInfo.cs
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.dll
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.pdb
+D:\TrainingKits\Aksl\Aksl.Concurrency\obj\x86\Debug\netstandard2.0\Aksl.Concurrency.csprojAssemblyReference.cache
